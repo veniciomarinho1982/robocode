@@ -1,0 +1,10 @@
+#Battle Properties
+#Tue Oct 13 21:48:16 BRT 2020
+robocode.battle.numRounds=10
+robocode.battle.rules.inactivityTime=450
+robocode.battle.hideEnemyNames=true
+robocode.battle.gunCoolingRate=0.1
+robocode.battleField.height=600
+robocode.battleField.width=800
+robocode.battle.sentryBorderSize=100
+robocode.battle.selectedRobots=sample.Corners,sample.Fire,sample.MyFirstRobot,sample.SittingDuck,sample.Walls,RoboThrower.Thrower*

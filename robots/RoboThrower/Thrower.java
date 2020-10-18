@@ -12,7 +12,7 @@ import java.awt.*;
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
- * Thrower - a robot by (your name here)
+ * Thrower - a robot by (venicio marinho)
  */
 public class Thrower extends Robot
 {
